@@ -9,3 +9,4 @@ the current date and time are shown on the TFT display in the notation that is c
 There is an automatic summer/winter time changeover. Depending on the system, some jitter is to be expected with the Si5351A output frequency.
 However, the accuracy should be 0.1 ppm after a few minutes of operation.
 A circuit diagram is in the schematic folder.
+The project was compiled with the Arduino IDE. The files "Clock-GPS-10MHz.ino", "Si5351.h", "Si5351.ccp" and the "Summertime.ino" are in the project folder
