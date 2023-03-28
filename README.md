@@ -12,5 +12,5 @@ There is an automatic summer/winter time changeover. Depending on the system, so
 However, the accuracy should be 0.1 ppm after a few minutes of operation.
 A circuit diagram is in the schematic folder.
 The project was compiled with the Arduino IDE. The files "Clock-GPS-10MHz_ST7735.ino", "Si5351.h", "Si5351.ccp" and the "Summertime.ino" are in the project folder
-Here is a picture from my display
+Here is a picture from my display.
 ![piture from my display](img/GPS-UHR.jpg)
