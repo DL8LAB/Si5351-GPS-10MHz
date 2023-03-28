@@ -61,7 +61,7 @@ void InitTft() {
   Serial.println(F("initialisiere TFT 'BLACKTAB'"));  
  // tft.init(240, 240, SPI_MODE2);     // original
   tft.initR(INITR_BLACKTAB);           // initialize a ST7735S chip, black tab  //####
-  tft.invertDisplay(true);             // Invertiere die Farben des Displays    //####
+  tft.invertDisplay(true);             // Invertiere die Farben des Displays    //#### bei meinen YELLOTAB Display = true
   tft.setRotation(1);                  // (3) Ausrichtung des Displays 
   tft.fillScreen(ST77XX_BLACK);        // Loesche TFT
   tft.setTextSize(1);                  // (2) Textgroesse
