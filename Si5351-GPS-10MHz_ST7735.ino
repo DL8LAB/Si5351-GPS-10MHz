@@ -1,5 +1,5 @@
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-// Datei Si5351-GPS-10MHz_m5.ino   vom 27.03.2023
+// Datei Si5351-GPS-10MHz_ST7735.ino   vom 27.03.2023
 // Von hier: https://github.com/flafforgue/Si5351-GPS-10MHz
 // GPS Uhr mit Si5351 10 MHz Ausgang
 // Die Uhr laeuft auch ohne GPS weiter
